@@ -1,0 +1,14 @@
+Drinks
+  - Types (Coffee | Tea | etc. )
+  - Sizes
+  - Sweetners
+  - Additions
+
+Barista
+  - Take Orders
+    - Receive Order
+    - Proccess the Order
+      - translate order for proccessing
+      - performing transaction
+    - Delegate Drink Making
+  - Deliver Order
